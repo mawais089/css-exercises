@@ -1,0 +1,16 @@
+.odd{
+    background-color: lightpink;
+    font-family: Verdana,DeJaVu sans,sans-serif;
+}
+#second-element{
+    color: blue;
+    font-size: 36px;
+}
+.odd.cooler{
+    font-size: 24px;
+}
+#fourth-element{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
